@@ -1,0 +1,45 @@
+{
+	"auths": {
+		"https://asia.gcr.io": {
+			"auth": "Z2Nsb3VkZG9ja2VydG9rZW46eWEyOS5HcVFCdVFhZXRJZXdHaF9HR1YzTE1saUFpdlZlaWxCMHRXSFpyUXVEXzBZU2ZqdXlHN3k5N3hmOHVvYWd4RVhOWkFodWEzUWhvTV9rMjNLUzRXY3A2b0ZVSGJlbE8tNXpfNWlYdjhxRTJ1Mm5rQktFRXBLS3R5UFp5b3lLeV8wWjJxWFhmdk1xdjhyY2ptU3c4WWNVT09EN055VlNYdmpqdUtiNzE5UWJwdzRNTkhaTVhNZ05WaGMzSjY4cVhRUndPSkI0X0JORi1wTGFXMEwweEtPclRENkZ3djdvcDZN",
+			"email": "not@val.id"
+		},
+		"https://eu.gcr.io": {
+			"auth": "Z2Nsb3VkZG9ja2VydG9rZW46eWEyOS5HcVFCdVFhZXRJZXdHaF9HR1YzTE1saUFpdlZlaWxCMHRXSFpyUXVEXzBZU2ZqdXlHN3k5N3hmOHVvYWd4RVhOWkFodWEzUWhvTV9rMjNLUzRXY3A2b0ZVSGJlbE8tNXpfNWlYdjhxRTJ1Mm5rQktFRXBLS3R5UFp5b3lLeV8wWjJxWFhmdk1xdjhyY2ptU3c4WWNVT09EN055VlNYdmpqdUtiNzE5UWJwdzRNTkhaTVhNZ05WaGMzSjY4cVhRUndPSkI0X0JORi1wTGFXMEwweEtPclRENkZ3djdvcDZN",
+			"email": "not@val.id"
+		},
+		"https://gcr.io": {
+			"auth": "Z2Nsb3VkZG9ja2VydG9rZW46eWEyOS5HcVFCdVFhZXRJZXdHaF9HR1YzTE1saUFpdlZlaWxCMHRXSFpyUXVEXzBZU2ZqdXlHN3k5N3hmOHVvYWd4RVhOWkFodWEzUWhvTV9rMjNLUzRXY3A2b0ZVSGJlbE8tNXpfNWlYdjhxRTJ1Mm5rQktFRXBLS3R5UFp5b3lLeV8wWjJxWFhmdk1xdjhyY2ptU3c4WWNVT09EN055VlNYdmpqdUtiNzE5UWJwdzRNTkhaTVhNZ05WaGMzSjY4cVhRUndPSkI0X0JORi1wTGFXMEwweEtPclRENkZ3djdvcDZN",
+			"email": "not@val.id"
+		},
+		"https://index.docker.io/v1/": {
+			"auth": "cmFtaW1tYWRpOkNoaW5uYUAxNDM="
+		},
+		"https://marketplace.gcr.io": {
+			"auth": "Z2Nsb3VkZG9ja2VydG9rZW46eWEyOS5HcVFCdVFhZXRJZXdHaF9HR1YzTE1saUFpdlZlaWxCMHRXSFpyUXVEXzBZU2ZqdXlHN3k5N3hmOHVvYWd4RVhOWkFodWEzUWhvTV9rMjNLUzRXY3A2b0ZVSGJlbE8tNXpfNWlYdjhxRTJ1Mm5rQktFRXBLS3R5UFp5b3lLeV8wWjJxWFhmdk1xdjhyY2ptU3c4WWNVT09EN055VlNYdmpqdUtiNzE5UWJwdzRNTkhaTVhNZ05WaGMzSjY4cVhRUndPSkI0X0JORi1wTGFXMEwweEtPclRENkZ3djdvcDZN",
+			"email": "not@val.id"
+		},
+		"https://staging-k8s.gcr.io": {
+			"auth": "Z2Nsb3VkZG9ja2VydG9rZW46eWEyOS5HcVFCdVFhZXRJZXdHaF9HR1YzTE1saUFpdlZlaWxCMHRXSFpyUXVEXzBZU2ZqdXlHN3k5N3hmOHVvYWd4RVhOWkFodWEzUWhvTV9rMjNLUzRXY3A2b0ZVSGJlbE8tNXpfNWlYdjhxRTJ1Mm5rQktFRXBLS3R5UFp5b3lLeV8wWjJxWFhmdk1xdjhyY2ptU3c4WWNVT09EN055VlNYdmpqdUtiNzE5UWJwdzRNTkhaTVhNZ05WaGMzSjY4cVhRUndPSkI0X0JORi1wTGFXMEwweEtPclRENkZ3djdvcDZN",
+			"email": "not@val.id"
+		},
+		"https://us.gcr.io": {
+			"auth": "Z2Nsb3VkZG9ja2VydG9rZW46eWEyOS5HcVFCdVFhZXRJZXdHaF9HR1YzTE1saUFpdlZlaWxCMHRXSFpyUXVEXzBZU2ZqdXlHN3k5N3hmOHVvYWd4RVhOWkFodWEzUWhvTV9rMjNLUzRXY3A2b0ZVSGJlbE8tNXpfNWlYdjhxRTJ1Mm5rQktFRXBLS3R5UFp5b3lLeV8wWjJxWFhmdk1xdjhyY2ptU3c4WWNVT09EN055VlNYdmpqdUtiNzE5UWJwdzRNTkhaTVhNZ05WaGMzSjY4cVhRUndPSkI0X0JORi1wTGFXMEwweEtPclRENkZ3djdvcDZN",
+			"email": "not@val.id"
+		},
+		"registry.gitlab.com": {
+			"auth": "cmFtaW1tYWRpOmNoaW5uYUAxNDM="
+		}
+	},
+	"HttpHeaders": {
+		"User-Agent": "Docker-Client/18.03.1-ce (linux)"
+	},
+	"credHelpers": {
+		"asia.gcr.io": "gcr",
+		"eu.gcr.io": "gcr",
+		"gcr.io": "gcr",
+		"marketplace.gcr.io": "gcloud",
+		"staging-k8s.gcr.io": "gcr",
+		"us.gcr.io": "gcr"
+	}
+}
